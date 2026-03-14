@@ -16,7 +16,9 @@ Collect data that could be used to train a short-term load forecasting model. Da
 
 **Usage:**
 
-The user is expected to collect their own data from weather.gov, open-meteo.com, and eia.gov using provided python scripts. The provided python scripts are located under src/. The scripts utilize APIs provided by the national weather service, open-meteo, and the EIA. Documentation for APIs can be found on the respective hosting service. 
+Census data was downloaded from census.gov and can be found in data/raw/. Users can also navigate data.census.gov to find additional data. 
+
+Users are expected to collect their own data from weather.gov, open-meteo.com, and eia.gov using provided python scripts. The provided python scripts are located under src/. The scripts utilize APIs provided by the national weather service, open-meteo, and the EIA. Documentation for APIs can be found on the respective hosting service. 
 
 The provided python scripts can be called from the command line. To use, check the --help flag. The scripts can also be loaded as functions.
 
@@ -28,3 +30,4 @@ APIs from the national weather service and open-meteo do not require an access k
 
 The EIA requires users to register for an API key which can be done at https://www.eia.gov/opendata/register.php. Registering for an API key is free.
 
+For access rights, check the respective services.
