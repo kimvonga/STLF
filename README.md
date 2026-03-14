@@ -6,7 +6,7 @@ Collect data that could be used to train a short-term load forecasting model. Da
 
 **Context:**
 
-&emsp; One of the core challenges of an energy provider is to generate and distribute enough energy to meet demand while not overgenerating to accrue loss. Existing forecasting models can struggle to predict demand during extreme weather conditions leading to waste, potential equipment damage, or possibly blackouts. By improving predictions during extreme weather conditions, which can be done by training forecasting models on weather data, energy providers can limit waste, reduce the possibility of equipment damage, and reduce the possibility of blackout.
+One of the core challenges of an energy provider is to generate and distribute enough energy to meet demand while not overgenerating to accrue loss. Existing forecasting models can struggle to predict demand during extreme weather conditions leading to waste, potential equipment damage, or possibly blackouts. By improving predictions during extreme weather conditions, which can be done by training forecasting models on weather data, energy providers can limit waste, reduce the possibility of equipment damage, and reduce the possibility of blackout.
 
 **Data Sources:**
 - census.gov (https://data.census.gov/) for census data including geographic position
