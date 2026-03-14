@@ -1,4 +1,4 @@
-# Short-Term Load Forecasting
+# Data Collection for Training Short-Term Load Forecasting Models
 
 **Purpose:**
 
