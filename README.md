@@ -20,7 +20,7 @@ The user is expected to collect their own data from weather.gov, open-meteo.com,
 
 The provided python scripts can be called from the command line. To use, check the --help flag. The scripts can also be loaded as functions.
 
-Examples of use can also be found in the Jupyter notebook located under notebooks/.
+Examples of use can be found in a Jupyter notebook located under notebooks/.
 
 **Access:**
 
