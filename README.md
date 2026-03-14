@@ -1,10 +1,8 @@
 # Short-Term Load Forecasting
 
-## Overview
-
 **Purpose:**
 
-Collect weather, census, and demand forecasting data. Data could be used to train short-term load forecasting models.
+Collect data that could be used to train a short-term load forecasting model. Dataset contains census data, historical and forecasted weather, and historical and forecasted demand.
 
 **Context:**
 
@@ -24,4 +22,17 @@ Forecaster weather data:
 Energy grid demand and forecasted demand:
 - eia.gov (https://www.eia.gov/opendata/browser/)
 
+**Usage:**
+
+The user is expected to collect their own data from weather.gov, open-meteo.com, and eia.gov using provided python scripts. The provided python scripts are located under src/ and APIs provided by the national weather service, open-meteo, and the EIA. Documentation for APIs can be found on the respective hosting service. 
+
+The provided python scripts can be called from the command line. To use, check the --help flag.
+
+Examples of use can also be found in the Jupyter notebook located under notebooks/.
+
+**Access:**
+
+APIs from the national weather service and open-meteo do not require an access key and are free to use.
+
+The EIA requires users to register for an API key which can be done at https://www.eia.gov/opendata/register.php. Registering for an API key is free.
 
