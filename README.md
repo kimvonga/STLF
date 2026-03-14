@@ -13,11 +13,11 @@ Collect weather, census, and demand forecasting data. Data could be used to trai
 **Data Sources:**
 
 Census data including geographic position:
-- census.gov (https://data.census.gov/)
+- census.gov (https://data.census.gov/) \
 Historical weather data:
-- open-meteo (https://open-meteo.com/en/docs)
+- open-meteo (https://open-meteo.com/en/docs) \
 Forecaster weather data:
-- weather.gov (https://www.weather.gov/documentation/services-web-api)
+- weather.gov (https://www.weather.gov/documentation/services-web-api) \
 Energy grid demand and forecasted demand:
 - eia.gov (https://www.eia.gov/opendata/browser/)
 
