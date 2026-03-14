@@ -30,4 +30,6 @@ APIs from the national weather service and open-meteo do not require an access k
 
 The EIA requires users to register for an API key which can be done at https://www.eia.gov/opendata/register.php. Registering for an API key is free.
 
-For access rights, check the respective services.
+For access rights, check the respective data souces.
+
+The provided code are free to use.
